@@ -7,4 +7,9 @@
         System.out.println("Podaj email Google");
         System.out.println("Podaj poprawne hasło");
         System.out.println("Kliknij na przycisk zaloguj");
-    }
+    }   
+   public void logowanieMicrosoft() {
+        System.out.println("Podaj nazwę użytkownika");
+        System.out.println("Podaj poprawne hasło albo i nie");
+        System.out.println("Kliknij na przycisk zaloguj");
+    }   
